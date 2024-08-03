@@ -1,2 +1,3 @@
 ## Analyzing Brain Layer Activations using Text Models
+
 ### This project leverages language models to generate semantic embeddings, enabling the extraction of complex, multi-layered representations for neural mapping. By analyzing the contributions of 12 hidden layers within these neural networks, the aim is to predict brain activity across four distinct narrative stimuli. The approach includes 3D visualization of brain activation patterns, highlighting significant language-related activations across diverse brain structures. This work provides insights into how language processing is represented in the brain.
